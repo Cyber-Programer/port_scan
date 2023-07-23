@@ -2,19 +2,20 @@ from argparse import ArgumentParser
 import socket
 from threading import Thread
 from time import time
+from colorama import init, Fore, Style
 
 open_ports = []
 
 RESET   = '\033[39m'
 YELLOW  = '\033[33m'
 
-banner = YELLOW+'''
+banner ='''
           _                                   _                                 
   __ _  _| |__  ___ _ _   ___   _ __  ___ _ _| |_ ___ __ __ _ _ _  _ _  ___ _ _ 
  / _| || | '_ \/ -_) '_| |___| | '_ \/ _ \ '_|  _(_-</ _/ _` | ' \| ' \/ -_) '_|
  \__|\_, |_.__/\___|_|         | .__/\___/_|  \__/__/\__\__,_|_||_|_||_\___|_|  
      |__/                      |_|                                              
-'''+RESET
+'''
 
 
 def main_args():
