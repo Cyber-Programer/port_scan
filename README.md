@@ -1,5 +1,5 @@
 
-![Logo](https://i.postimg.cc/3J3G4jL0/Designer-e-Bay-Logo.png)
+![Logo](https://postimg.cc/Cd6598pw)
 
 
 # Port scanner - Website Port Scanner
@@ -54,11 +54,6 @@ te.py: error: the following arguments are required: Target IP
 ```
 
 
-## Authors
-
-- [@Cyber-Programer](https://www.github.com/Cyber-Programer)
-
-
 ## Run &#8595;
 
 #### First install python in your system
@@ -96,3 +91,7 @@ Start the tool
 
 ### port found
 ![Port found](https://i.postimg.cc/DyQcRyNL/Capture2.png)
+## Authors
+
+- [@Cyber-Programer](https://www.github.com/Cyber-Programer)
+
