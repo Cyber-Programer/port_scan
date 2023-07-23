@@ -11,8 +11,11 @@ This tool was using some python modules
 
 You need to install python in your system
 
-#### Modules :
- `argparse `,`socket`,`threading `,`time`.Thos modules are using hear
+#### Modules:
+- `argparse`
+- `socket`
+- `threading`
+- `time`
 ## Features
 - Web open port scanning
 - port rang (custom)
