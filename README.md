@@ -1,7 +1,4 @@
 
-![Logo](https://postimg.cc/Cd6598pw)
-
-
 # Port scanner - Website Port Scanner
 
 Discover open ports on any website effortlessly. Enhance security and fortify defenses with PortScanWeb. A must-have tool for security researchers and web administrators.
